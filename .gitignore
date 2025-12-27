@@ -1,2 +1,9 @@
 data/
 catboost_info/
+my_submission.csv
+bgm.csv
+bgm_without_outliers.csv
+gmm.csv
+gmm_without_outliers.csv
+k_means.csv
+k_means_without_outliers.csv
